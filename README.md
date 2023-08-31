@@ -1,6 +1,6 @@
-## 👋 Hi there, Beatriz M. Rios
+## Beatriz Mendes Rios
 
-- 🌱 I’m studying HTML5,CSS3 and JavaScript.
+- 📕 I’m studying HTML5,CSS3 and JavaScript. 
 
 ## 💻 Technologies & Tools
 
