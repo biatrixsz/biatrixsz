@@ -1,6 +1,6 @@
 ## Beatriz Mendes Rios
 
-- 📕 I’m studying HTML5,CSS3 and JavaScript. 
+- 📕 I’m studying HTML5,CSS3,JavaScript and Phyton . 
 
 ## 💻 Technologies & Tools
 
